@@ -16,7 +16,7 @@ Of course we don't have access to Vodafone database ,so we used sample data to s
 with consumer and can perform operations. 
 Other consumer service uses that our bot recognizes and could be done automatically without human assistance by connecting it to Vodafone database: 
 
-acquiring information about services, contracts, payment or renewing contracts, helping consumer to troubleshoot technical problems etc.
+Acquiring information about services, contracts, payment or renewing contracts, helping consumer to troubleshoot technical problems etc.
 To build this bot we used Google API named "Dialogflow" on backend side and on frontend we used Android Studio with Java programming language.
 We trained our bot by "feeding" it with most commonly used consumer service matters.
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/32957204/166118109-adbaa752-2a4e-48fe-afed-16b98756456d.png">
