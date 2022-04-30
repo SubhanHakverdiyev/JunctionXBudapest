@@ -19,6 +19,10 @@ Other consumer service uses that our bot recognizes and could be done automatica
 acquiring information about services, contracts, payment or renewing contracts, helping consumer to troubleshoot technical problems etc.
 To build this bot we used Google API named "Dialogflow" on backend side and on frontend we used Android Studio with Java programming language.
 We trained our bot by "feeding" it with most commonly used consumer service matters.
+Screenshot 2022-04-30 at 20.29.57<img width="500" alt="image" src="https://user-images.githubusercontent.com/32957204/166118109-adbaa752-2a4e-48fe-afed-16b98756456d.png">
+
+Screenshot 2022-04-30 at 20.30.21<img width="432" alt="image" src="https://user-images.githubusercontent.com/32957204/166118114-5d6dc9bf-ef97-4500-bc36-99e9e08eb9bf.png">
+
 
 ## Additional notes 
 
